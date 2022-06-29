@@ -1,5 +1,3 @@
-# Bateria
-
 
 <h1 align="center">Projeto Web de Bateria</h1>
 
@@ -15,4 +13,3 @@ Projeto Web de Bateria, desenvolvido durante meus estudos com HTML5, CSS3 e Java
 <div>
   <img height="350" src="" style="max-width:200%;"/>
 </div>
-
